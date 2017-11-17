@@ -3,7 +3,8 @@ ul {
 }
 
 body {
-  background-image: url("img/candies.gif");
+  background-color: 
+  height: 1000px;
 }
 
 .column2 {
@@ -27,4 +28,13 @@ body {
   font-family: fantasy;
   text-align: center;
   background-color: lightblue;
+}
+
+.header2 {
+  text-align: left;
+}
+
+body {
+  color: gray;
+  font-size: 18px;
 }
