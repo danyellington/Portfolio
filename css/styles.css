@@ -9,3 +9,22 @@ body {
 .column2 {
   position: relative;
 }
+
+.feature {
+  float: right;
+  max-width: 200px;
+  max-height: 200px;
+}
+
+.header {
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+  color: purple;
+}
+
+.jumbotron {
+  font-family: fantasy;
+  text-align: center;
+  background-color: lightblue;
+}
