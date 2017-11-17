@@ -3,7 +3,7 @@ ul {
 }
 
 body {
-  background-color: 
+  background-color: black;
   height: 1000px;
 }
 
@@ -28,6 +28,13 @@ body {
   font-family: fantasy;
   text-align: center;
   background-color: lightblue;
+  margin-bottom: 0px;
+  background-image: url(../img/galaxy.jpg);
+ background-position: 0% 25%;
+ background-size: cover;
+ background-repeat: no-repeat;
+ color: gray;
+ text-shadow: black 0.3em 0.3em 0.3em;
 }
 
 .header2 {
@@ -37,4 +44,13 @@ body {
 body {
   color: gray;
   font-size: 18px;
+}
+
+
+
+img {
+  height: 28px;
+  width: 40px;
+  float:
+
 }
